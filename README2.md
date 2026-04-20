@@ -69,3 +69,10 @@ python3 scripts/rename_asmt05_submission_dirs.py --dry-run
 ```bash
 python3 scripts/rename_asmt05_submission_dirs.py
 ```
+
+## asmt-05 주제 선정 보강 문서
+
+- 메인 토의 페이지는 `asmt-05.md`다.
+- `008` 반의 분류별 promising 판단 참고, 검증된 대표 문헌, 서지 정제 메모는 `asmt-05-commentary.md`에 정리했다.
+- 다른 반에도 같은 작업을 반복할 수 있도록 공통 기준과 작업 절차는 `asmt-05-topic-selection-guide.md`에 정리했다.
+- `asmt-05` 하위에 새 검토 문서를 추가할 때는 학생 문서의 `nav_order`를 다시 손대지 않고, 검토 문서에 `nav_order: 0`을 주는 것을 기본 원칙으로 삼는다.
