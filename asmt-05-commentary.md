@@ -56,10 +56,12 @@ permalink: /asmt-05/commentary/
 
 ### 정책효과와 국가개입 평가
 
-- 판정: 패키지 전체로는 약하다.
-- 살릴 이유: 경제제재와 기후정의처럼 일부 소주제는 canonical한 찬반 라인이 분명하다.
-- 주의할 점: 지역개발, 교육정책, 제재, 기후책임을 한 묶음으로 계속 두면 질문이 너무 달라진다. 실증효과 비교만 남고 규범적 논증이 약해지기 쉽다.
-- promising 여부를 가르는 질문: 하나의 정책을 둘러싼 경쟁 기준이 선명한가, 아니면 사례만 다른 실증평가가 나열되는가.
+- 공통 메모: 이 분류는 하나의 패키지로 완전히 결속되지 않아도 괜찮다. 오히려 장점은 국가개입의 정당화 기준을 묻는 공통 질문 아래에서 학생들이 각자 다른 정책영역을 대표한다는 점이다. 따라서 여기서는 패키지 응집도보다 개별 주제가 독립된 논증형 에세이로 서는가를 기준으로 보는 편이 맞다.
+- 심영훈: `높음`. 경제제재는 비군사적 강제가 언제 정당하고 언제 효과적인가라는 canonical한 쟁점선이 분명해서 학부 에세이로 매우 좋다. 다만 국가별 사례 나열로 가면 약해지므로, 효과성 조건 또는 정당화 조건 중 하나로 좁히는 편이 좋다.
+- 박동민: `중상`. 지역 집중 개발과 균형 발전을 넘어 사회적 포괄성까지 목표에 넣자는 제안은 흥미롭다. 다만 그대로 두면 정책개요문이 되기 쉬우므로, 국가 정책의 정당한 목표는 효율인가 포괄성인가처럼 규범 기준을 전면에 세우면 살아난다.
+- 김호준: `높음`. 기후위기 책임과 발전권의 비대칭은 문헌도 충분하고, 정의·책임·역사적 배출·발전권이 선명하게 맞붙는 강한 쟁점이다. 개별 학생 주제로는 이 분류 안에서 가장 안정적인 축 가운데 하나다.
+- 김도윤: `중`. 대학 지원과 연합 거버넌스 문제는 흥미롭지만, 잘못 잡으면 교육행정 보고서처럼 흐를 수 있다. 효율성 대 공공성, 경쟁 대 협력 거버넌스 같은 규범 대립을 명시하면 가능성이 생긴다.
+- 박정빈: `중`. 조기교육은 좋은 주제일 수 있지만, 이 과제 형식에서는 실증결과 정리로 흐르기 쉽다. 선의의 개입이라도 장기 부작용이 있으면 정당화될 수 없는가처럼 정책평가의 규범 기준을 세우지 않으면 피상화될 위험이 있다.
 - 검증한 대표 문헌:
   - Robert A. Pape, “Why Economic Sanctions Do Not Work,” *International Security* 22(2), 1997. 서지는 Cambridge 계열 색인과 후속 논쟁에서 재확인됨. [후속 논쟁 안내](https://www.belfercenter.org/publication/why-economic-sanctions-still-do-not-work)
   - Daniel W. Drezner, *The Sanctions Paradox: Economic Statecraft and International Relations*, Cambridge University Press, 1999. [Cambridge Core contents](https://www.cambridge.org/core/books/sanctions-paradox/contents/1EF0ED1DBA685BDAF62DC8FC114ADF4A)
@@ -80,10 +82,9 @@ permalink: /asmt-05/commentary/
 
 ### 인간 이해와 공정성의 철학
 
-- 판정: 패키지로는 약하지만, 운평등주의 축은 독립 주제로 살릴 수 있다.
-- 살릴 이유: 공감은 타인 이해의 조건을 묻고, 능력주의는 운과 책임의 경계를 묻는다. 특히 능력주의 비판은 canonical line이 비교적 선명하다.
-- 주의할 점: 공감은 인지과학, 현상학, 사회철학으로 흩어져 범위를 잘못 잡으면 피상적이 되기 쉽다. 반면 능력주의/운평등주의는 학생들이 entry-level에서 논쟁 구조를 잡기 쉽다.
-- promising 여부를 가르는 질문: 철학적 깊이만 크고 논쟁선은 흐린가, 아니면 실제로 입문 수준에서 canonical한 반론 구조를 재구성할 수 있는가.
+- 공통 메모: 이 분류도 패키지의 단일성이 아주 높을 필요는 없다. 오히려 여기서는 철학적 깊이가 있는 개별 주제가 존재한다는 점이 핵심이다. 이동현은 공감의 철학적 조건, 차영준은 능력주의와 운의 관계를 제안하고 있어 둘 다 독립 주제로는 충분히 성립한다.
+- 이동현: `중상`. 공감을 단순 시뮬레이션이나 투사로 환원할 수 없다는 논점은 분명히 철학적 가치가 있다. 다만 범위를 넓게 잡으면 추상적 개념사로 흐르기 쉬우므로, 공감은 타인 이해의 충분조건인가 또는 공감은 도덕판단에 신뢰할 수 있는가처럼 한 질문으로 좁혀야 한다.
+- 차영준: `높음`. 능력과 운의 구분이 완전하지 않아도 능력주의가 분배 기준이 될 수 있는지를 묻는 문제는 canonical한 논쟁선이 아주 선명하다. 학생이 반론과 재반론을 구성하기에도 좋고, 문헌 접근성도 높다.
 - 검증한 대표 문헌:
   - Richard Arneson, “Dworkin and Luck Egalitarianism: A Comparison,” in *The Oxford Handbook of Distributive Justice*, 2018. [Oxford Academic](https://academic.oup.com/edited-volume/28111/chapter-abstract/212244851)
   - G. A. Cohen, “Equality of What? On Welfare, Goods and Capabilities,” *Recherches Économiques de Louvain* 56(3-4), 1990. [Cambridge Core](https://www.cambridge.org/core/journals/recherches-economiques-de-louvain-louvain-economic-review/article/equality-of-what-on-welfare-goods-and-capabilities/F1D028905EEAB8FA42515A59350DE2EB)
