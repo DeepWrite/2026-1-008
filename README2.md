@@ -74,5 +74,7 @@ python3 scripts/rename_asmt05_submission_dirs.py
 
 - 메인 토의 페이지는 `asmt-05.md`다.
 - `008` 반의 분류별 promising 판단 참고, 검증된 대표 문헌, 서지 정제 메모는 `asmt-05-commentary.md`에 정리했다.
+- 코멘트 문서의 파일명은 `asmt-05-commentary.md`, 문서 제목은 `과제-05 검토 메모`로 통일한다.
 - 다른 반에도 같은 작업을 반복할 수 있도록 공통 기준과 작업 절차는 `asmt-05-topic-selection-guide.md`에 정리했다.
 - `asmt-05` 하위에 새 검토 문서를 추가할 때는 학생 문서의 `nav_order`를 다시 손대지 않고, 검토 문서에 `nav_order: 0`을 주는 것을 기본 원칙으로 삼는다.
+- 패키지 응집도가 느슨한 분류는 통째로 약하다고 쓰지 말고, 코멘트 문서에서 개별 학생 주제별 생존 가능성을 따로 평가한다.
