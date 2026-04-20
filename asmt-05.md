@@ -91,25 +91,35 @@ permalink: /asmt-05/
 
 ### 요약 표
 
-<table>
+<table class="topic-summary">
+  <colgroup>
+    <col class="topic-col">
+    <col class="members-col">
+    <col class="type-col">
+    <col class="metric-col">
+    <col class="metric-col">
+    <col class="metric-col">
+    <col class="metric-col">
+    <col class="memo-col">
+  </colgroup>
   <thead>
     <tr>
       <th>주제군</th>
       <th>포함 주제(학생)</th>
       <th>성격</th>
-      <th><small>확장<br>가능성</small></th>
-      <th><small>문헌<br>탐색</small></th>
-      <th><small>쟁점<br>명료성</small></th>
-      <th><small>주제<br>매력</small></th>
+      <th class="metric-col"><small>확장<br>가능성</small></th>
+      <th class="metric-col"><small>문헌<br>탐색</small></th>
+      <th class="metric-col"><small>쟁점<br>명료성</small></th>
+      <th class="metric-col"><small>주제<br>매력</small></th>
       <th>토의 메모</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>정보환경과 공론장</td><td>윤중석, 송혜린, 장은재, 최서연</td><td>미디어연구, 민주주의 이론, 기술윤리</td><td align="center">상</td><td align="center">상</td><td align="center">상</td><td align="center">상</td><td>가짜뉴스, 혐오표현, AI 편향은 학생들이 즉각적으로 흥미를 느끼는 축이라 토의에서 강하다.</td></tr>
-    <tr><td>노동의 미래와 일의 조건</td><td>정원준, 임현서, 노영승</td><td>노동정책, 플랫폼 경제, 생산성 논쟁</td><td align="center">상</td><td align="center">상</td><td align="center">중상</td><td align="center">상</td><td>원격근무, 노동시간, 플랫폼 노동은 현실감이 높고 찬반이 분명하다.</td></tr>
-    <tr><td>복지국가와 세대 간 부담</td><td>강재연, 박주은</td><td>분배정의, 사회보장, 세대정의</td><td align="center">중상</td><td align="center">상</td><td align="center">중상</td><td align="center">중상</td><td>좋은 주제지만 두 학생 논제가 결이 달라, 남길 경우 연금 또는 기본소득 중 하나를 중심축으로 잡는 편이 낫다.</td></tr>
-    <tr><td>정책효과와 국가개입 평가</td><td>심영훈, 박동민, 김호준, 김도윤, 박정빈</td><td>공공정책, 발전정책, 실증평가</td><td align="center">상</td><td align="center">중상</td><td align="center">중</td><td align="center">중상</td><td>넓고 풍부하지만 논의가 퍼질 수 있으므로, 제재나 기후처럼 쟁점이 선명한 소주제로 압축하는 것이 좋다.</td></tr>
-    <tr><td>권리 확장과 인간 경계</td><td>주소현, 구은형, 최유준</td><td>응용윤리, 권리이론, 정체성 정치</td><td align="center">상</td><td align="center">상</td><td align="center">상</td><td align="center">상</td><td>동물, 이민, 젠더는 각자 독립적으로도 매력적이어서 버리기 아까운 강한 후보군이다.</td></tr>
-    <tr><td>인간 이해와 공정성의 철학</td><td>이동현, 차영준</td><td>도덕철학, 사회철학</td><td align="center">중</td><td align="center">중상</td><td align="center">중</td><td align="center">중상</td><td>깊이는 크지만 다른 주제에 비해 즉각적 매력은 덜할 수 있어, 철학적 색채를 살릴지 토의가 필요하다.</td></tr>
+    <tr><td>정보환경과 공론장</td><td>윤중석, 송혜린, 장은재, 최서연</td><td>미디어연구, 민주주의 이론, 기술윤리</td><td class="metric-col">상</td><td class="metric-col">상</td><td class="metric-col">상</td><td class="metric-col">상</td><td>가짜뉴스, 혐오표현, AI 편향은 학생들이 즉각적으로 흥미를 느끼는 축이라 토의에서 강하다.</td></tr>
+    <tr><td>노동의 미래와 일의 조건</td><td>정원준, 임현서, 노영승</td><td>노동정책, 플랫폼 경제, 생산성 논쟁</td><td class="metric-col">상</td><td class="metric-col">상</td><td class="metric-col">중상</td><td class="metric-col">상</td><td>원격근무, 노동시간, 플랫폼 노동은 현실감이 높고 찬반이 분명하다.</td></tr>
+    <tr><td>복지국가와 세대 간 부담</td><td>강재연, 박주은</td><td>분배정의, 사회보장, 세대정의</td><td class="metric-col">중상</td><td class="metric-col">상</td><td class="metric-col">중상</td><td class="metric-col">중상</td><td>좋은 주제지만 두 학생 논제가 결이 달라, 남길 경우 연금 또는 기본소득 중 하나를 중심축으로 잡는 편이 낫다.</td></tr>
+    <tr><td>정책효과와 국가개입 평가</td><td>심영훈, 박동민, 김호준, 김도윤, 박정빈</td><td>공공정책, 발전정책, 실증평가</td><td class="metric-col">상</td><td class="metric-col">중상</td><td class="metric-col">중</td><td class="metric-col">중상</td><td>넓고 풍부하지만 논의가 퍼질 수 있으므로, 제재나 기후처럼 쟁점이 선명한 소주제로 압축하는 것이 좋다.</td></tr>
+    <tr><td>권리 확장과 인간 경계</td><td>주소현, 구은형, 최유준</td><td>응용윤리, 권리이론, 정체성 정치</td><td class="metric-col">상</td><td class="metric-col">상</td><td class="metric-col">상</td><td class="metric-col">상</td><td>동물, 이민, 젠더는 각자 독립적으로도 매력적이어서 버리기 아까운 강한 후보군이다.</td></tr>
+    <tr><td>인간 이해와 공정성의 철학</td><td>이동현, 차영준</td><td>도덕철학, 사회철학</td><td class="metric-col">중</td><td class="metric-col">중상</td><td class="metric-col">중</td><td class="metric-col">중상</td><td>깊이는 크지만 다른 주제에 비해 즉각적 매력은 덜할 수 있어, 철학적 색채를 살릴지 토의가 필요하다.</td></tr>
   </tbody>
 </table>
